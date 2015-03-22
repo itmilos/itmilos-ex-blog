@@ -7,7 +7,7 @@ imagefeature: fourseasons.jpg
 chart: true
 ---
 <figure>
-  <img src="{{ site.url }}/images/itmlos.jpg" alt="itmilos Milos Rujevic">
+  <img src="https://raw.githubusercontent.com/itmilos/itmilos.github.io/master/images/itmilos.jpg" alt="itmilos Milos Rujevic">
   <figcaption>Hossain Mohammad Faysal</figcaption>
 </figure>
 
