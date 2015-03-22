@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /about/index.html
-title: Hossain Mohd Faysal
-tags: [Hossain, Mohd, Faysal, hmfaysal]
+title: ITMilos Milos Rujevic
+tags: [itmlos]
 imagefeature: fourseasons.jpg
 chart: true
 ---
 <figure>
-  <img src="{{ site.url }}/images/hossain-faysal.jpg" alt="Hossain Mohammad Faysal">
+  <img src="{{ site.url }}/images/itmlos.jpg" alt="itmilos Milos Rujevic">
   <figcaption>Hossain Mohammad Faysal</figcaption>
 </figure>
 
@@ -38,11 +38,11 @@ I am an PhD candidate in *ESE* at the [SEAS](http://www.seas.upenn.edu/) at **UP
 *[UPENN]: University of Pennsylvania
 
 <figure>
-	<img src="{{ site.url }}/images/Hossain-Mohd-Faysal.jpg" alt="Hossain Mohammad Faysal">
-	<figcaption>At Bates Linear Accelerator Center</figcaption>
+	<img src="{{ site.url }}/images/milos-rujevic.jpg" alt="Milos Rujevic">
+	<figcaption>At <a href="https://www.google.rs/maps?es_sm=91&q=ada+ciganlija&bav=on.2,or.r_cp.&bvm=bv.88528373,d.ZWU&biw=1429&bih=838&um=1&ie=UTF-8&sa=X&ei=cj8PVbTeM4jsO9GKgJgC&ved=0CAcQ_AUoAg">Ada Ciganlija</a> </figcaption>
 </figure>
 
-I was born and brought up in Doha. Yes, its a desert peninsula, yes we have camels and falcons and all the other Middle Eastern traits/stereotypes you can think of.
+Born and Raised in Belgrade, Serbia. It was hard and just made me harder.
 
 <figure class="third">
 	<a href="{{ site.url }}/images/about/1.jpg"><img src="{{ site.url }}/images/about/1-001.jpg"></a>
