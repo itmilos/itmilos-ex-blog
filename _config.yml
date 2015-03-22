@@ -11,21 +11,21 @@ url:        	  /Notepad
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
-  avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  name:           Milos Rujevic
+  avatar:         itmilos.jpg
+  email:          itmios@outlook.com    
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    all things and web development 
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
+  twitter:        itmilos
+  facebook:       itmilos
+  github:         itmilos      
+  instagram:      itmilos
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  google_plus:    https://plus.google.com/u/0/+MilošRujević
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-7
+google_analytics:   UA-47905293-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -45,7 +45,7 @@ links:
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Dhaka
+timezone:    Europe/Belgrade
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -71,8 +71,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/Notepad/'
-  relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
+  siteurl: 'http://itmilos.github.io/'
+  relativeLinks: 'http://itmilos.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:
