@@ -29,9 +29,7 @@ chart: true
 
 Born and raised in Belgrade, Serbia and being dyslexic.. You might think I had a fuck-up live, acctually its the other way around. 
 
-<div align="center">
-
-#This blog has {{ site.posts | size }} posts
+1.  #This blog has {{ site.posts | size }} posts
 
 ##with {{ site.categories | size }} categories
 
@@ -41,7 +39,7 @@ Born and raised in Belgrade, Serbia and being dyslexic.. You might think I had a
 
 #####runs on [jekyll](http://jekyllrb.com/ "Jekyll Bloging Platform") and [github pages](https://pages.github.com "GitHub Pages")
 
-</div>
+
 
 I am [Drexel Made](http://www.drexel.edu "Drexel University") serb...so I have US degree and SERBIAN heritage.. 
 My ultimate goal is to make silicone valley of the blakans here in Belgrade, Serbia.
