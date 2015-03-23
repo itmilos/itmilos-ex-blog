@@ -8,7 +8,7 @@ chart: true
 ---
 <figure>
   <img src="https://raw.githubusercontent.com/itmilos/itmilos.github.io/master/images/itmilos.jpg" alt="itmilos Milos Rujevic">
-  <figcaption>Hossain Mohammad Faysal</figcaption>
+  <figcaption>itmilos - Milos Rujevic</figcaption>
 </figure>
 
 {% assign total_words = 0 %}
@@ -27,72 +27,31 @@ chart: true
 {% endfor %}
 
 
-My name is **Hossain Mohd. Faysal**, and this is my personal blog. It currently has {{ site.posts | size }} posts in {{ site.categories | size }} categories which combinedly have {{ total_words }} words, which will take an average reader ({{ site.wpm }} WPM) approximately <span class="time">{{ total_readtime }}</span> minutes to read. {% if featuredcount != 0 %}There are <a href="{{ site.url }}/featured">{{ featuredcount }} featured posts</a>, you should definitely check those out.{% endif %} The most recent post is {% for post in site.posts limit:1 %}{% if post.description %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}">"{{ post.title }}"</a>{% else %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}" title="Read more about {{ post.title }}">"{{ post.title }}"</a>{% endif %}{% endfor %} which was published on {% for post in site.posts limit:1 %}{% assign modifiedtime = post.modified | date: "%Y%m%d" %}{% assign posttime = post.date | date: "%Y%m%d" %}<time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} and last modified on <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time>{% endif %}{% endif %}{% endfor %}. The last commit was on {{ site.time | date: "%A, %d %b %Y" }} at {{ site.time | date: "%I:%M %p" }} [UTC](http://en.wikipedia.org/wiki/Coordinated_Universal_Time "Temps Universel Coordonné").
+Born and raised in Belgrade, Serbia and being dyslexic.. You might think I had a fuck-up live, acctually its the other way around. 
 
-I am an PhD candidate in *ESE* at the [SEAS](http://www.seas.upenn.edu/) at **UPENN**. I am licensed as a Professional Engineer (P.E) to practice in the states of Texas, Massachusetts and California. I double majored in EECS and Mathematics during my undergraduate life at [MIT](http://www.mit.edu/), and currently focusing on Electrical Engineering for my post-graduate studies.
+#This blog has {{ site.posts | size }} posts.
+##with {{ site.categories | size }} categories
+###total words count  {{ total_words }}
+####it will take you about <span class="time">{{ total_readtime }}</span> minutes to read. 
+#####runs on [jekyll](http://jekyllrb.com/ "Jekyll Bloging Platform") and [github pages](https://pages.github.com "GitHub Pages")
 
-*[ESE]: Electrical and Systems Engineering
-*[SEAS]: School of Engineering and Applied Science
-*[MIT]: Massachusetts Institute of Technology
-*[EECS]: Electrical and Computer Engineering
-*[UPENN]: University of Pennsylvania
+I am [Drexel Made](http://www.drexel.edu "Drexel University") serb...so I have US degree and SERBIAN heritage.. 
+My ultimate goal is to make silicone valley of the blakans here in Belgrade, Serbia.
+I am already consulting multiple successful outsourcing business... 
 
 <figure>
 	<img src="{{ site.url }}/images/milos-rujevic.jpg" alt="Milos Rujevic">
 	<figcaption>At <a href="https://www.google.rs/maps?es_sm=91&q=ada+ciganlija&bav=on.2,or.r_cp.&bvm=bv.88528373,d.ZWU&biw=1429&bih=838&um=1&ie=UTF-8&sa=X&ei=cj8PVbTeM4jsO9GKgJgC&ved=0CAcQ_AUoAg">Ada Ciganlija</a> </figcaption>
 </figure>
 
-Born and Raised in Belgrade, Serbia. It was hard and just made me harder.
+Born and Raised in Belgrade, Serbia. 
 
-<figure class="third">
-	<a href="{{ site.url }}/images/about/1.jpg"><img src="{{ site.url }}/images/about/1-001.jpg"></a>
-	<a href="{{ site.url }}/images/about/2.jpg"><img src="{{ site.url }}/images/about/2-001.jpg"></a>
-	<a href="{{ site.url }}/images/about/3.jpg"><img src="{{ site.url }}/images/about/3-001.jpg"></a>
-</figure>
 <figure class="half">
 	<a href="{{ site.url }}/images/about/4.jpg"><img src="{{ site.url }}/images/about/4-001.jpg"></a>
 	<a href="{{ site.url }}/images/about/5.jpg"><img src="{{ site.url }}/images/about/5-001.jpg"></a>
 </figure>
-<figure class="third">
-	<a href="{{ site.url }}/images/about/6.jpg"><img src="{{ site.url }}/images/about/6-001.jpg"></a>
-	<a href="{{ site.url }}/images/about/7.jpg"><img src="{{ site.url }}/images/about/7-001.jpg"></a>
-	<a href="{{ site.url }}/images/about/8.jpg"><img src="{{ site.url }}/images/about/8-001.jpg"></a>
-	<figcaption>Doha at its full glory.</figcaption>
-</figure>
 
-At some point in the not-terribly-distant future, I hope to found a self-sustaining collective of clever people, for fun, profit(?), and the promotion of human life in the universe. This might wind up in Qatar, Bangladesh, Scandinavia, the Massachusetts Bay Area, the SF Bay Area, Japan, Germany, or the dustbin of overly idealistic plans. (Yes, I have a special bin for overly idealistic plans. In my district they can't be recycled with residential mixed paper.) The most challenging aspect of this concept is to curtail unproductive competition with other people who will inevitably have the same idea. (Some sort of cooperative federation...) I'm presently looking for people who might be interested in being a part of such an organization.
-
-Anyways, for now I'm just working toward changing the face of Electrical Engineering forever. Not that I necessarily expect to succeed, but it's something to strive for, and it's a fun problem to work on.
-
-
-Entrepreneur  
-Designer  
-***Engineer***  
-Inventor  
 
 I
 make
-stuff.
-
-
-*Beautiful, practical, meaningful stuff.*
-
-
-I make what I love.
-
-*I love what I do.*
-
-
-But over the years, I noticed that somehow, along the way, software designed to help us be creative, actually made us less creative. That's because we believe our best ideas emerge when we use pencils and paper.
-So I set out to build tools that work the way I do.
-
-
-Tools for the creative space — the 53 centimeters that magically link head, heart, and hand. Tools as simple as pencil and paper. Tools so essential, I  really can't imagine work without them.
-
-
-For
-the makers,  
-the creators,  
-the discoverers,  
-the original thinkers,  
-***This is the space to create.***
+things happen.
