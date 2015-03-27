@@ -4,7 +4,7 @@ title: "Cyrillic CSS"
 description: "I will try to make every cyrillic word in CSS... Stay tuned..."
 category: project css
 tags: [css] 
-imagefeature: cover1.jpg
+imagefeature: css-cyrillic.jpg
 modified: 2015-03-27
 ---
 
