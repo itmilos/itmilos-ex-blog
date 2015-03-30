@@ -5,7 +5,7 @@ description: "I will try to make every cyrillic word in CSS... Stay tuned..."
 category: project
 tags: [css] 
 imagefeature: css-cyrillic.jpg
-modified: 2015-03-27
+modified: 2015-03-31
 comments: true
 share: true
 featured: true
