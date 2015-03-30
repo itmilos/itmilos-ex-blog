@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cyrillic CSS"
+title: "Cyrillic CSS - Letter A"
 description: "I will try to make every cyrillic word in CSS... Stay tuned..."
 category: project
 tags: [css] 
@@ -43,5 +43,5 @@ featured: true
         background-color:#000000;
     }
     
-### [see example on codepen.io](http://codepen.io/anon/pen/NPJxEp){:target="_blank"}
+### [see example on codepen.io](http://codepen.io/MilosRujevic/pen/MYxRWe){:target="_blank"}
 
