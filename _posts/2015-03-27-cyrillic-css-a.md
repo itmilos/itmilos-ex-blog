@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cyrillic CSS - Letter A"
-description: "I will try to make every cyrillic word in CSS... Stay tuned..."
+description: "I will try to make every cyrillic letter in CSS... Stay tuned..."
 category: project
 tags: [css] 
 imagefeature: css-cyrillic.jpg
@@ -32,7 +32,7 @@ featured: true
         height:125px;
         background-color:#000000;
     }
-        .A:after{
+    .A:after{
         transform:skew(19deg,0);
         position:absolute;
         content:'';
@@ -43,5 +43,5 @@ featured: true
         background-color:#000000;
     }
     
-### [see example on codepen.io](http://codepen.io/MilosRujevic/pen/MYxRWe){:target="_blank"}
+### [see example on codepen.io](http://codepen.io/MilosRujevic/pen/xbeRzv){:target="_blank"}
 
