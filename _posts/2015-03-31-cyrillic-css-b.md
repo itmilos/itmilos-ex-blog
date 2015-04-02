@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cyrillic CSS Letter Б"
+title: "Cyrillic CSS - Letter Б"
 description: "I will try to make every cyrillic letter in CSS... Stay tuned..."
 category: project
 tags: [css] 
