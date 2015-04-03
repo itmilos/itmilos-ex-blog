@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cyrillic CSS - Letter G"
+title: "Cyrillic CSS - Letter Г"
 description: "I will try to make every cyrillic letter in CSS... Stay tuned..."
 category: project
 tags: [css] 
@@ -13,7 +13,7 @@ featured: true
 
 # Project Cylilic Letters in CSS
 
-### Letter G
+### Letter Г
 
     .G{
         position:relative;
