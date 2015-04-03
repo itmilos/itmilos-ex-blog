@@ -29,7 +29,7 @@ chart: true
 
 Born and raised in Belgrade, Serbia and being dyslexic.. You might think I had a fuck-up live, acctually its the other way around. 
 
-1.  #This blog has {{ site.posts | size }} posts
+#This blog has {{ site.posts | size }} posts
 
 ##with {{ site.categories | size }} categories
 
