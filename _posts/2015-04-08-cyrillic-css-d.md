@@ -13,7 +13,7 @@ featured: true
 
 # Project Cylilic Letters in CSS
 
-### Letter Г
+### Letter Д
     .D {
           transform: skew(-20deg,0);
           position:absolute;
