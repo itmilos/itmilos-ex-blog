@@ -4,11 +4,10 @@ title: "Developer CV Pro example"
 description: "I will try to make every cyrillic letter in CSS... Stay tuned..."
 category: articles  
 tags: [try, job search, json to html, json to pdf]
-imagefeature: milos-rujevic-curriculum-vitae.jpg
+imagefeature: the-job.jpg
 modified: 2015-04-10
 comments: true
 share: true
-featured: true
 ---
 
 
