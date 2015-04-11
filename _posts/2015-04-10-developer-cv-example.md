@@ -2,7 +2,7 @@
 layout: post
 title: "Developer CV Pro example"
 description: "I will try to make every cyrillic letter in CSS... Stay tuned..."
-category: job search 
+category: job_search 
 tags: [try], [fancy] 
 imagefeature: milos-rujevic-curriculum-vitae.jpg
 modified: 2015-04-10
