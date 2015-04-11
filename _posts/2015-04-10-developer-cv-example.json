@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Developer CV Pro example"
+description: "I will try to make every cyrillic letter in CSS... Stay tuned..."
+category: job search 
+tags: [try], [fancy] 
+imagefeature: milos-rujevic-curriculum-vitae.jpg
+modified: 2015-04-10
+comments: true
+share: true
+featured: true
+---
+
+#### Use something fancy to make your CV
+
+I would suggest you to use [THIS FANCY THING HERE](https://github.com/prat0318/json_resume)
+
+If you are still reading this the odds are you have not clicked on the [THIS FANCY THING HERE](https://github.com/prat0318/json_resume)
+                                                   
+So, let me tell you about it.. Fancy thing is actually json_resume it will get your resume translated from JSON to html (with templates), markdown, and etc.. 
+
+json_resume is written in ruby and that is why I decided to try it.
+                                                   
