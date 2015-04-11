@@ -3,13 +3,14 @@ layout: post
 title: "Developer CV Pro example"
 description: "I will try to make every cyrillic letter in CSS... Stay tuned..."
 category: job_search 
-tags: [try], [fancy] 
+tags: [try]
 imagefeature: milos-rujevic-curriculum-vitae.jpg
 modified: 2015-04-10
 comments: true
 share: true
 featured: true
 ---
+
 
 ### Use something fancy to make your CV
 
