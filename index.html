@@ -28,10 +28,12 @@ tags: [itmilos, serbia, web development, outsorucing, belgrade, usa, drexel, uni
                     </a>
                 </h3>
             </header>
+<!--
             <section class="notepad-post-excerpt">
                 <p>{{ post.content | strip_html | truncatewords:40 }}</p>
             </section>
             
+-->
                 <div class="notepad-index-post-tags">
                 {% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} category">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
                     
