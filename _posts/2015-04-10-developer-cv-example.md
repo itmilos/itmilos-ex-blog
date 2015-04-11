@@ -15,6 +15,7 @@ share: true
 
 ----------
 
+
 I would suggest you to use [this FANCY thing here](https://github.com/prat0318/json_resume)
 
 If you are still reading this the odds are you have not clicked on the [this FANCY thing here](https://github.com/prat0318/json_resume)
