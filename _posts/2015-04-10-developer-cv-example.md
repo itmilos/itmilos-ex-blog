@@ -10,11 +10,10 @@ comments: true
 share: true
 ---
 
-
 ### Use something fancy to make your CV
 
-
-I would suggest you to use [this FANCY thing here](https://github.com/prat0318/json_resume){:target="_blank"}
+[this FANCY thing here](https://github.com/prat0318/json_resume){:target="_blank"}
+I would suggest you to use 
 
 If you are still reading this the odds are you have not clicked on the [this FANCY thing here](https://github.com/prat0318/json_resume){:target="_blank"}
                                                    
