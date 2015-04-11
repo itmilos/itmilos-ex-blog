@@ -13,9 +13,10 @@ share: true
 
 ### Use something fancy to make your CV
 
-I would suggest you to use [THIS FANCY THING HERE](https://github.com/prat0318/json_resume)
 
-If you are still reading this the odds are you have not clicked on the [THIS FANCY THING HERE](https://github.com/prat0318/json_resume)
+I would suggest you to use [THIS FANCY THING HERE](https://github.com/prat0318/json_resume){:target="_blank"}
+
+If you are still reading this the odds are you have not clicked on the [THIS FANCY THING HERE](https://github.com/prat0318/json_resume){:target="_blank"}
                                                    
 So, let me tell you about it.. Fancy thing is actually **json_resume** it will get your resume translated from **JSON** to **HTML** (with templates), markdown, and etc.. 
 
@@ -52,6 +53,6 @@ Currently supports:
 
 ----------
 
-of if you don't care about anything, you can always turn to [TheEelevantResume](http://www.therelevantresume.com/)
+or if you don't care about anything, you can always turn to [TheEelevantResume](http://www.therelevantresume.com/)
 
 
