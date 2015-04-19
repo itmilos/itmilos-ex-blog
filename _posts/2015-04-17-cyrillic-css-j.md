@@ -34,7 +34,7 @@ featured: true
       border-width:0 16px 15px 14px;
       border-color:#000000;
       border-style:solid;
-      border-radius:0 0 75% 75%;
+      border-radius:0 0 55% 75%;
     }
     .j:after{
       transform:rotate(-45deg);
