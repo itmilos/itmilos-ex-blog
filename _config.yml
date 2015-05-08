@@ -35,7 +35,7 @@ bing_verify:
 links:
   - title: Home
     url: /
-    external: false
+    external: true
     icon: home
   - title: Featured Posts
     url: /featured
@@ -43,6 +43,8 @@ links:
     url: /categories
   - title: About
     url: /about
+  - title: Serbian
+    url: /sr
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Belgrade
