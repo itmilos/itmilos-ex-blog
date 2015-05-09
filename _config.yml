@@ -43,8 +43,6 @@ links:
     url: /categories
   - title: About
     url: /about
-  - title: Serbian
-    url: /sr
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Belgrade
@@ -155,5 +153,5 @@ prose:
           value: false
 
 
-include: ["sr, .htaccess"]
+include: [".htaccess"]
 exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
