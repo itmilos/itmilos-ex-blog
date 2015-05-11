@@ -7,7 +7,16 @@
     <script src="{{ site.url }}/assets/js/notepad.js"></script>
     <script src="{{ site.url }}/assets/js/scripts.min.js"></script>
     <script src="{{ site.url }}/assets/js/vendor/nprogress.js"></script>
-
+    <script src="{{ site.url }}/assets/js/elevator.min.js"></script>
+    <script>
+            // Simple elevator usage.
+            var elementButton = document.querySelector('.elevator');
+            var elevator = new Elevator({
+                element: elementButton,
+                mainAudio: "{{ site.url }}/assets/music/elevator-music.mp3", // Music from http://www.bensound.com/
+                endAudio:  "{{ site.url }}/assets/music/ding.mp3"
+            });
+    </script>
     <script>
       $(document).foundation();
     </script>
