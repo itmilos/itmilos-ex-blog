@@ -506,6 +506,14 @@ figure a img:hover {
   font-weight: bold;
 }
 
+.serbian-link {
+  margin: 0 15px 0 0;
+}
+
+.serbian-link img {
+  margin: 0 5px 0 5px;
+}
+
 svg:not(:root) {
     overflow: hidden;
 }

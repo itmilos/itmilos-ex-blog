@@ -2,62 +2,62 @@ callback([
 
   {
     "text": "Welcome to Serbia",
-    "href": "http://localhost:4000/creative/welcome"
+    "href": "http://itmilos.github.io/creative/welcome"
   } ,
 
   {
     "text": "Cyrillic CSS - Letter A",
-    "href": "http://localhost:4000/project/cyrillic-css-a"
+    "href": "http://itmilos.github.io/project/cyrillic-css-a"
   } ,
 
   {
     "text": "Cyrillic CSS - Letter Б",
-    "href": "http://localhost:4000/project/cyrillic-css-b"
+    "href": "http://itmilos.github.io/project/cyrillic-css-b"
   } ,
 
   {
     "text": "Cyrillic CSS - Letter В",
-    "href": "http://localhost:4000/project/cyrillic-css-v"
+    "href": "http://itmilos.github.io/project/cyrillic-css-v"
   } ,
 
   {
     "text": "Cyrillic CSS - Letter Г",
-    "href": "http://localhost:4000/project/cyrillic-css-g"
+    "href": "http://itmilos.github.io/project/cyrillic-css-g"
   } ,
 
   {
     "text": "Cyrillic CSS - Letter Д",
-    "href": "http://localhost:4000/project/cyrillic-css-d"
+    "href": "http://itmilos.github.io/project/cyrillic-css-d"
   } ,
 
   {
     "text": "Cyrillic CSS - Letter Ђ",
-    "href": "http://localhost:4000/project/cyrillic-css-dj"
+    "href": "http://itmilos.github.io/project/cyrillic-css-dj"
   } ,
 
   {
     "text": "Developer CV Pro example",
-    "href": "http://localhost:4000/articles/developer-cv-example"
+    "href": "http://itmilos.github.io/articles/developer-cv-example"
   } ,
 
   {
     "text": "Cyrillic CSS - Letter Ж",
-    "href": "http://localhost:4000/project/cyrillic-css-z%CC%8C"
+    "href": "http://itmilos.github.io/project/cyrillic-css-z%CC%8C"
   } ,
 
   {
     "text": "Cyrillic CSS - Letter З",
-    "href": "http://localhost:4000/project/cyrillic-css-z"
+    "href": "http://itmilos.github.io/project/cyrillic-css-z"
   } ,
 
   {
     "text": "Cyrillic CSS - Letter И",
-    "href": "http://localhost:4000/project/cyrillic-css-i"
+    "href": "http://itmilos.github.io/project/cyrillic-css-i"
   } ,
 
   {
     "text": "Cyrillic CSS - Letter Ј",
-    "href": "http://localhost:4000/project/cyrillic-css-j"
+    "href": "http://itmilos.github.io/project/cyrillic-css-j"
   } 
 
 ])

@@ -7,30 +7,30 @@
 
 <title type="text">itmilos</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000/" />
-<updated>2015-05-11T22:42:15+02:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://itmilos.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://itmilos.github.io/" />
+<updated>2015-05-12T02:51:59+02:00</updated>
+<id>http://itmilos.github.io/</id>
 <author>
   <name>Milos Rujevic</name>
-  <uri>http://localhost:4000/</uri>
+  <uri>http://itmilos.github.io/</uri>
   <email>itmios@outlook.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Cyrillic CSS - Letter Ј]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/project/cyrillic-css-j"/>
-  <id>http://localhost:4000/project/cyrillic-css-j</id>
+  <link rel="alternate" type="text/html" href="http://itmilos.github.io/project/cyrillic-css-j"/>
+  <id>http://itmilos.github.io/project/cyrillic-css-j</id>
   <published>2015-04-17T00:00:00+02:00</published>
   <updated>2015-04-17T00:00:00-00:00</updated>
   
   <author>
     <name>Milos Rujevic</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://itmilos.github.io</uri>
     <email>itmios@outlook.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#css" term="css" />
+  <category scheme="http://itmilos.github.io/tags/#css" term="css" />
   <content type="html">
   
     &lt;h1 id=&quot;project-cylilic-letters-in-css&quot;&gt;Project Cylilic Letters in CSS&lt;/h1&gt;
@@ -72,23 +72,23 @@
 &lt;h3 id=&quot;see-example-on-codepeniohttpcodepeniomilosrujevicpenrvbyxotargetblank&quot;&gt;&lt;a href=&quot;http://codepen.io/MilosRujevic/pen/rVBYXo&quot; target=&quot;_blank&quot;&gt;see example on codepen.io&lt;/a&gt;&lt;/h3&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/project/cyrillic-css-j&quot;&gt;Cyrillic CSS - Letter Ј&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://localhost:4000&quot;&gt;itmilos&lt;/a&gt; on April 17, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://itmilos.github.io/project/cyrillic-css-j&quot;&gt;Cyrillic CSS - Letter Ј&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://itmilos.github.io&quot;&gt;itmilos&lt;/a&gt; on April 17, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Cyrillic CSS - Letter И]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/project/cyrillic-css-i"/>
-  <id>http://localhost:4000/project/cyrillic-css-i</id>
+  <link rel="alternate" type="text/html" href="http://itmilos.github.io/project/cyrillic-css-i"/>
+  <id>http://itmilos.github.io/project/cyrillic-css-i</id>
   <published>2015-04-16T00:00:00+02:00</published>
   <updated>2015-04-16T00:00:00-00:00</updated>
   
   <author>
     <name>Milos Rujevic</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://itmilos.github.io</uri>
     <email>itmios@outlook.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#css" term="css" />
+  <category scheme="http://itmilos.github.io/tags/#css" term="css" />
   <content type="html">
   
     &lt;h1 id=&quot;project-cylilic-letters-in-css&quot;&gt;Project Cylilic Letters in CSS&lt;/h1&gt;
@@ -120,23 +120,23 @@
 &lt;h3 id=&quot;see-example-on-codepeniohttpcodepeniomilosrujevicpenlewwyxtargetblank&quot;&gt;&lt;a href=&quot;http://codepen.io/MilosRujevic/pen/LEwWyx&quot; target=&quot;_blank&quot;&gt;see example on codepen.io&lt;/a&gt;&lt;/h3&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/project/cyrillic-css-i&quot;&gt;Cyrillic CSS - Letter И&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://localhost:4000&quot;&gt;itmilos&lt;/a&gt; on April 16, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://itmilos.github.io/project/cyrillic-css-i&quot;&gt;Cyrillic CSS - Letter И&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://itmilos.github.io&quot;&gt;itmilos&lt;/a&gt; on April 16, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Cyrillic CSS - Letter З]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/project/cyrillic-css-z"/>
-  <id>http://localhost:4000/project/cyrillic-css-z</id>
+  <link rel="alternate" type="text/html" href="http://itmilos.github.io/project/cyrillic-css-z"/>
+  <id>http://itmilos.github.io/project/cyrillic-css-z</id>
   <published>2015-04-15T00:00:00+02:00</published>
   <updated>2015-04-15T00:00:00-00:00</updated>
   
   <author>
     <name>Milos Rujevic</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://itmilos.github.io</uri>
     <email>itmios@outlook.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#css" term="css" />
+  <category scheme="http://itmilos.github.io/tags/#css" term="css" />
   <content type="html">
   
     &lt;h1 id=&quot;project-cylilic-letters-in-css&quot;&gt;Project Cylilic Letters in CSS&lt;/h1&gt;
@@ -180,23 +180,23 @@
 &lt;h3 id=&quot;see-example-on-codepeniohttpcodepeniomilosrujevicpenlewwzrtargetblank&quot;&gt;&lt;a href=&quot;http://codepen.io/MilosRujevic/pen/LEwWZR&quot; target=&quot;_blank&quot;&gt;see example on codepen.io&lt;/a&gt;&lt;/h3&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/project/cyrillic-css-z&quot;&gt;Cyrillic CSS - Letter З&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://localhost:4000&quot;&gt;itmilos&lt;/a&gt; on April 15, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://itmilos.github.io/project/cyrillic-css-z&quot;&gt;Cyrillic CSS - Letter З&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://itmilos.github.io&quot;&gt;itmilos&lt;/a&gt; on April 15, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Cyrillic CSS - Letter Ж]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/project/cyrillic-css-z%CC%8C"/>
-  <id>http://localhost:4000/project/cyrillic-css-ž</id>
+  <link rel="alternate" type="text/html" href="http://itmilos.github.io/project/cyrillic-css-z%CC%8C"/>
+  <id>http://itmilos.github.io/project/cyrillic-css-ž</id>
   <published>2015-04-14T00:00:00+02:00</published>
   <updated>2015-04-14T00:00:00-00:00</updated>
   
   <author>
     <name>Milos Rujevic</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://itmilos.github.io</uri>
     <email>itmios@outlook.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#css" term="css" />
+  <category scheme="http://itmilos.github.io/tags/#css" term="css" />
   <content type="html">
   
     &lt;h1 id=&quot;project-cylilic-letters-in-css&quot;&gt;Project Cylilic Letters in CSS&lt;/h1&gt;
@@ -235,23 +235,23 @@
 &lt;h3 id=&quot;see-example-on-codepeniohttpcodepeniomilosrujevicpenraxyoxtargetblank&quot;&gt;&lt;a href=&quot;http://codepen.io/MilosRujevic/pen/raXyOX&quot; target=&quot;_blank&quot;&gt;see example on codepen.io&lt;/a&gt;&lt;/h3&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/project/cyrillic-css-z%CC%8C&quot;&gt;Cyrillic CSS - Letter Ж&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://localhost:4000&quot;&gt;itmilos&lt;/a&gt; on April 14, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://itmilos.github.io/project/cyrillic-css-z%CC%8C&quot;&gt;Cyrillic CSS - Letter Ж&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://itmilos.github.io&quot;&gt;itmilos&lt;/a&gt; on April 14, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Developer CV Pro example]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/developer-cv-example"/>
-  <id>http://localhost:4000/articles/developer-cv-example</id>
+  <link rel="alternate" type="text/html" href="http://itmilos.github.io/articles/developer-cv-example"/>
+  <id>http://itmilos.github.io/articles/developer-cv-example</id>
   <published>2015-04-10T00:00:00+02:00</published>
   <updated>2015-04-10T00:00:00-00:00</updated>
   
   <author>
     <name>Milos Rujevic</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://itmilos.github.io</uri>
     <email>itmios@outlook.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#try" term="try" /><category scheme="http://localhost:4000/tags/#job%20search" term="job search" /><category scheme="http://localhost:4000/tags/#json%20to%20html" term="json to html" /><category scheme="http://localhost:4000/tags/#json%20to%20pdf" term="json to pdf" />
+  <category scheme="http://itmilos.github.io/tags/#try" term="try" /><category scheme="http://itmilos.github.io/tags/#job%20search" term="job search" /><category scheme="http://itmilos.github.io/tags/#json%20to%20html" term="json to html" /><category scheme="http://itmilos.github.io/tags/#json%20to%20pdf" term="json to pdf" />
   <content type="html">
   
     &lt;hr /&gt;
@@ -303,23 +303,23 @@
 &lt;p&gt;or if you don’t care about anything, you can always turn to &lt;a href=&quot;http://www.therelevantresume.com/&quot;&gt;TheEelevantResume&lt;/a&gt;&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/developer-cv-example&quot;&gt;Developer CV Pro example&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://localhost:4000&quot;&gt;itmilos&lt;/a&gt; on April 10, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://itmilos.github.io/articles/developer-cv-example&quot;&gt;Developer CV Pro example&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://itmilos.github.io&quot;&gt;itmilos&lt;/a&gt; on April 10, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Cyrillic CSS - Letter Ђ]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/project/cyrillic-css-dj"/>
-  <id>http://localhost:4000/project/cyrillic-css-dj</id>
+  <link rel="alternate" type="text/html" href="http://itmilos.github.io/project/cyrillic-css-dj"/>
+  <id>http://itmilos.github.io/project/cyrillic-css-dj</id>
   <published>2015-04-09T00:00:00+02:00</published>
   <updated>2015-04-09T00:00:00-00:00</updated>
   
   <author>
     <name>Milos Rujevic</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://itmilos.github.io</uri>
     <email>itmios@outlook.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#css" term="css" />
+  <category scheme="http://itmilos.github.io/tags/#css" term="css" />
   <content type="html">
   
     &lt;h1 id=&quot;project-cylilic-letters-in-css&quot;&gt;Project Cylilic Letters in CSS&lt;/h1&gt;
@@ -357,23 +357,23 @@
 &lt;h3 id=&quot;see-example-on-codepeniohttpcodepeniomilosrujevicpenmyyryxtargetblank&quot;&gt;&lt;a href=&quot;http://codepen.io/MilosRujevic/pen/myYRYx&quot; target=&quot;_blank&quot;&gt;see example on codepen.io&lt;/a&gt;&lt;/h3&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/project/cyrillic-css-dj&quot;&gt;Cyrillic CSS - Letter Ђ&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://localhost:4000&quot;&gt;itmilos&lt;/a&gt; on April 09, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://itmilos.github.io/project/cyrillic-css-dj&quot;&gt;Cyrillic CSS - Letter Ђ&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://itmilos.github.io&quot;&gt;itmilos&lt;/a&gt; on April 09, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Cyrillic CSS - Letter Д]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/project/cyrillic-css-d"/>
-  <id>http://localhost:4000/project/cyrillic-css-d</id>
+  <link rel="alternate" type="text/html" href="http://itmilos.github.io/project/cyrillic-css-d"/>
+  <id>http://itmilos.github.io/project/cyrillic-css-d</id>
   <published>2015-04-08T00:00:00+02:00</published>
   <updated>2015-04-08T00:00:00-00:00</updated>
   
   <author>
     <name>Milos Rujevic</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://itmilos.github.io</uri>
     <email>itmios@outlook.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#css" term="css" />
+  <category scheme="http://itmilos.github.io/tags/#css" term="css" />
   <content type="html">
   
     &lt;h1 id=&quot;project-cylilic-letters-in-css&quot;&gt;Project Cylilic Letters in CSS&lt;/h1&gt;
@@ -414,23 +414,23 @@
 &lt;h3 id=&quot;see-example-on-codepeniohttpcodepeniomilosrujevicpenazrplotargetblank&quot;&gt;&lt;a href=&quot;http://codepen.io/MilosRujevic/pen/azrpLO&quot; target=&quot;_blank&quot;&gt;see example on codepen.io&lt;/a&gt;&lt;/h3&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/project/cyrillic-css-d&quot;&gt;Cyrillic CSS - Letter Д&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://localhost:4000&quot;&gt;itmilos&lt;/a&gt; on April 08, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://itmilos.github.io/project/cyrillic-css-d&quot;&gt;Cyrillic CSS - Letter Д&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://itmilos.github.io&quot;&gt;itmilos&lt;/a&gt; on April 08, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Cyrillic CSS - Letter Г]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/project/cyrillic-css-g"/>
-  <id>http://localhost:4000/project/cyrillic-css-g</id>
+  <link rel="alternate" type="text/html" href="http://itmilos.github.io/project/cyrillic-css-g"/>
+  <id>http://itmilos.github.io/project/cyrillic-css-g</id>
   <published>2015-04-02T00:00:00+02:00</published>
   <updated>2015-04-02T00:00:00-00:00</updated>
   
   <author>
     <name>Milos Rujevic</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://itmilos.github.io</uri>
     <email>itmios@outlook.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#css" term="css" />
+  <category scheme="http://itmilos.github.io/tags/#css" term="css" />
   <content type="html">
   
     &lt;h1 id=&quot;project-cylilic-letters-in-css&quot;&gt;Project Cylilic Letters in CSS&lt;/h1&gt;
@@ -451,23 +451,23 @@
 &lt;h3 id=&quot;see-example-on-codepeniohttpcodepeniomilosrujevicpenrnobbqtargetblank&quot;&gt;&lt;a href=&quot;http://codepen.io/MilosRujevic/pen/RNOBBQ&quot; target=&quot;_blank&quot;&gt;see example on codepen.io&lt;/a&gt;&lt;/h3&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/project/cyrillic-css-g&quot;&gt;Cyrillic CSS - Letter Г&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://localhost:4000&quot;&gt;itmilos&lt;/a&gt; on April 02, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://itmilos.github.io/project/cyrillic-css-g&quot;&gt;Cyrillic CSS - Letter Г&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://itmilos.github.io&quot;&gt;itmilos&lt;/a&gt; on April 02, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Cyrillic CSS - Letter В]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/project/cyrillic-css-v"/>
-  <id>http://localhost:4000/project/cyrillic-css-v</id>
+  <link rel="alternate" type="text/html" href="http://itmilos.github.io/project/cyrillic-css-v"/>
+  <id>http://itmilos.github.io/project/cyrillic-css-v</id>
   <published>2015-04-01T00:00:00+02:00</published>
   <updated>2015-03-27T00:00:00-00:00</updated>
   
   <author>
     <name>Milos Rujevic</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://itmilos.github.io</uri>
     <email>itmios@outlook.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#css" term="css" />
+  <category scheme="http://itmilos.github.io/tags/#css" term="css" />
   <content type="html">
   
     &lt;h1 id=&quot;project-cylilic-letters-in-css&quot;&gt;Project Cylilic Letters in CSS&lt;/h1&gt;
@@ -509,23 +509,23 @@
 
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/project/cyrillic-css-v&quot;&gt;Cyrillic CSS - Letter В&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://localhost:4000&quot;&gt;itmilos&lt;/a&gt; on April 01, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://itmilos.github.io/project/cyrillic-css-v&quot;&gt;Cyrillic CSS - Letter В&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://itmilos.github.io&quot;&gt;itmilos&lt;/a&gt; on April 01, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Cyrillic CSS - Letter Б]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/project/cyrillic-css-b"/>
-  <id>http://localhost:4000/project/cyrillic-css-b</id>
+  <link rel="alternate" type="text/html" href="http://itmilos.github.io/project/cyrillic-css-b"/>
+  <id>http://itmilos.github.io/project/cyrillic-css-b</id>
   <published>2015-03-31T00:00:00+02:00</published>
   <updated>2015-03-31T00:00:00-00:00</updated>
   
   <author>
     <name>Milos Rujevic</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://itmilos.github.io</uri>
     <email>itmios@outlook.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#css" term="css" />
+  <category scheme="http://itmilos.github.io/tags/#css" term="css" />
   <content type="html">
   
     &lt;h1 id=&quot;project-cylilic-letters-in-css&quot;&gt;Project Cylilic Letters in CSS&lt;/h1&gt;
@@ -558,23 +558,23 @@
 
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/project/cyrillic-css-b&quot;&gt;Cyrillic CSS - Letter Б&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://localhost:4000&quot;&gt;itmilos&lt;/a&gt; on March 31, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://itmilos.github.io/project/cyrillic-css-b&quot;&gt;Cyrillic CSS - Letter Б&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://itmilos.github.io&quot;&gt;itmilos&lt;/a&gt; on March 31, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Cyrillic CSS - Letter A]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/project/cyrillic-css-a"/>
-  <id>http://localhost:4000/project/cyrillic-css-a</id>
+  <link rel="alternate" type="text/html" href="http://itmilos.github.io/project/cyrillic-css-a"/>
+  <id>http://itmilos.github.io/project/cyrillic-css-a</id>
   <published>2015-03-27T00:00:00+01:00</published>
   <updated>2015-03-27T00:00:00-00:00</updated>
   
   <author>
     <name>Milos Rujevic</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://itmilos.github.io</uri>
     <email>itmios@outlook.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#css" term="css" />
+  <category scheme="http://itmilos.github.io/tags/#css" term="css" />
   <content type="html">
   
     &lt;h1 id=&quot;project-cylilic-letters-in-css&quot;&gt;Project Cylilic Letters in CSS&lt;/h1&gt;
@@ -614,45 +614,45 @@
 
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/project/cyrillic-css-a&quot;&gt;Cyrillic CSS - Letter A&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://localhost:4000&quot;&gt;itmilos&lt;/a&gt; on March 27, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://itmilos.github.io/project/cyrillic-css-a&quot;&gt;Cyrillic CSS - Letter A&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://itmilos.github.io&quot;&gt;itmilos&lt;/a&gt; on March 27, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Welcome to Serbia]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/creative/welcome"/>
-  <id>http://localhost:4000/creative/welcome</id>
+  <link rel="alternate" type="text/html" href="http://itmilos.github.io/creative/welcome"/>
+  <id>http://itmilos.github.io/creative/welcome</id>
   <published>2015-03-23T00:00:00+01:00</published>
   <updated>2014-07-19T00:00:00-00:00</updated>
   
   <author>
     <name>Milos Rujevic</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://itmilos.github.io</uri>
     <email>itmios@outlook.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#create" term="create" /><category scheme="http://localhost:4000/tags/#free%20time" term="free time" /><category scheme="http://localhost:4000/tags/#fun" term="fun" />
+  <category scheme="http://itmilos.github.io/tags/#create" term="create" /><category scheme="http://itmilos.github.io/tags/#free%20time" term="free time" /><category scheme="http://itmilos.github.io/tags/#fun" term="fun" />
   <content type="html">
   
     &lt;p&gt;just for fun&lt;/p&gt;
 
 &lt;figure class=&quot;third&quot;&gt;
-	&lt;a href=&quot;http://localhost:4000/images/welcome/n1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/welcome/n1.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;http://localhost:4000/images/welcome/n2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/welcome/n2.jpg&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;http://localhost:4000/images/welcome/n3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/welcome/n3.jpg&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://itmilos.github.io/images/welcome/n1.jpg&quot;&gt;&lt;img src=&quot;http://itmilos.github.io/images/welcome/n1.jpg&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://itmilos.github.io/images/welcome/n2.jpg&quot;&gt;&lt;img src=&quot;http://itmilos.github.io/images/welcome/n2.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;http://itmilos.github.io/images/welcome/n3.jpg&quot;&gt;&lt;img src=&quot;http://itmilos.github.io/images/welcome/n3.jpg&quot; /&gt;&lt;/a&gt;
 &lt;/figure&gt;
 
 &lt;figure class=&quot;third&quot;&gt;
-	&lt;a href=&quot;http://localhost:4000/images/welcome/n4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/welcome/n4.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;http://localhost:4000/images/welcome/n5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/welcome/n5.jpg&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;http://localhost:4000/images/welcome/n6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/welcome/n6.jpg&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://itmilos.github.io/images/welcome/n4.jpg&quot;&gt;&lt;img src=&quot;http://itmilos.github.io/images/welcome/n4.jpg&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://itmilos.github.io/images/welcome/n5.jpg&quot;&gt;&lt;img src=&quot;http://itmilos.github.io/images/welcome/n5.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;http://itmilos.github.io/images/welcome/n6.jpg&quot;&gt;&lt;img src=&quot;http://itmilos.github.io/images/welcome/n6.jpg&quot; /&gt;&lt;/a&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-	&lt;a href=&quot;http://localhost:4000/images/welcome/n7.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/welcome/n7.jpg&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://itmilos.github.io/images/welcome/n7.jpg&quot;&gt;&lt;img src=&quot;http://itmilos.github.io/images/welcome/n7.jpg&quot; /&gt;&lt;/a&gt;
 &lt;/figure&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/creative/welcome&quot;&gt;Welcome to Serbia&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://localhost:4000&quot;&gt;itmilos&lt;/a&gt; on March 23, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://itmilos.github.io/creative/welcome&quot;&gt;Welcome to Serbia&lt;/a&gt; was originally published by Milos Rujevic at &lt;a href=&quot;http://itmilos.github.io&quot;&gt;itmilos&lt;/a&gt; on March 23, 2015.&lt;/p&gt;</content>
 </entry>
 
 </feed>

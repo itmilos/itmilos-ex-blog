@@ -3,7 +3,7 @@
 		{
 		  "title"      : "Cyrillic CSS - Letter Ј",
 		  "category"   : "project",
-		  "url"        : "http://localhost:4000/project/cyrillic-css-j",
+		  "url"        : "http://itmilos.github.io/project/cyrillic-css-j",
 		  "date"       : "2015-04-17 00:00:00 +0200",
 		  "shortdate"  : "April 17, 2015"
 		} ,
@@ -11,7 +11,7 @@
 		{
 		  "title"      : "Cyrillic CSS - Letter И",
 		  "category"   : "project",
-		  "url"        : "http://localhost:4000/project/cyrillic-css-i",
+		  "url"        : "http://itmilos.github.io/project/cyrillic-css-i",
 		  "date"       : "2015-04-16 00:00:00 +0200",
 		  "shortdate"  : "April 16, 2015"
 		} ,
@@ -19,7 +19,7 @@
 		{
 		  "title"      : "Cyrillic CSS - Letter З",
 		  "category"   : "project",
-		  "url"        : "http://localhost:4000/project/cyrillic-css-z",
+		  "url"        : "http://itmilos.github.io/project/cyrillic-css-z",
 		  "date"       : "2015-04-15 00:00:00 +0200",
 		  "shortdate"  : "April 15, 2015"
 		} ,
@@ -27,7 +27,7 @@
 		{
 		  "title"      : "Cyrillic CSS - Letter Ж",
 		  "category"   : "project",
-		  "url"        : "http://localhost:4000/project/cyrillic-css-z%CC%8C",
+		  "url"        : "http://itmilos.github.io/project/cyrillic-css-z%CC%8C",
 		  "date"       : "2015-04-14 00:00:00 +0200",
 		  "shortdate"  : "April 14, 2015"
 		} ,
@@ -35,7 +35,7 @@
 		{
 		  "title"      : "Developer CV Pro example",
 		  "category"   : "articles",
-		  "url"        : "http://localhost:4000/articles/developer-cv-example",
+		  "url"        : "http://itmilos.github.io/articles/developer-cv-example",
 		  "date"       : "2015-04-10 00:00:00 +0200",
 		  "shortdate"  : "April 10, 2015"
 		} ,
@@ -43,7 +43,7 @@
 		{
 		  "title"      : "Cyrillic CSS - Letter Ђ",
 		  "category"   : "project",
-		  "url"        : "http://localhost:4000/project/cyrillic-css-dj",
+		  "url"        : "http://itmilos.github.io/project/cyrillic-css-dj",
 		  "date"       : "2015-04-09 00:00:00 +0200",
 		  "shortdate"  : "April 09, 2015"
 		} ,
@@ -51,7 +51,7 @@
 		{
 		  "title"      : "Cyrillic CSS - Letter Д",
 		  "category"   : "project",
-		  "url"        : "http://localhost:4000/project/cyrillic-css-d",
+		  "url"        : "http://itmilos.github.io/project/cyrillic-css-d",
 		  "date"       : "2015-04-08 00:00:00 +0200",
 		  "shortdate"  : "April 08, 2015"
 		} ,
@@ -59,7 +59,7 @@
 		{
 		  "title"      : "Cyrillic CSS - Letter Г",
 		  "category"   : "project",
-		  "url"        : "http://localhost:4000/project/cyrillic-css-g",
+		  "url"        : "http://itmilos.github.io/project/cyrillic-css-g",
 		  "date"       : "2015-04-02 00:00:00 +0200",
 		  "shortdate"  : "April 02, 2015"
 		} ,
@@ -67,7 +67,7 @@
 		{
 		  "title"      : "Cyrillic CSS - Letter В",
 		  "category"   : "project",
-		  "url"        : "http://localhost:4000/project/cyrillic-css-v",
+		  "url"        : "http://itmilos.github.io/project/cyrillic-css-v",
 		  "date"       : "2015-04-01 00:00:00 +0200",
 		  "shortdate"  : "April 01, 2015"
 		} ,
@@ -75,7 +75,7 @@
 		{
 		  "title"      : "Cyrillic CSS - Letter Б",
 		  "category"   : "project",
-		  "url"        : "http://localhost:4000/project/cyrillic-css-b",
+		  "url"        : "http://itmilos.github.io/project/cyrillic-css-b",
 		  "date"       : "2015-03-31 00:00:00 +0200",
 		  "shortdate"  : "March 31, 2015"
 		} ,
@@ -83,7 +83,7 @@
 		{
 		  "title"      : "Cyrillic CSS - Letter A",
 		  "category"   : "project",
-		  "url"        : "http://localhost:4000/project/cyrillic-css-a",
+		  "url"        : "http://itmilos.github.io/project/cyrillic-css-a",
 		  "date"       : "2015-03-27 00:00:00 +0100",
 		  "shortdate"  : "March 27, 2015"
 		} ,
@@ -91,7 +91,7 @@
 		{
 		  "title"      : "Welcome to Serbia",
 		  "category"   : "creative",
-		  "url"        : "http://localhost:4000/creative/welcome",
+		  "url"        : "http://itmilos.github.io/creative/welcome",
 		  "date"       : "2015-03-23 00:00:00 +0100",
 		  "shortdate"  : "March 23, 2015"
 		} 

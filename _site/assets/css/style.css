@@ -77,7 +77,7 @@ main, .notepad-share-icons, .notepad-disqus {
       display: block;
       margin: 0;
       width: 100%;
-      font-size: 2.25rem;
+      font-size: 1.6rem;
       text-align: center;
       padding: 0.3125rem; }
       .notepad-blog-menu ul li a {
@@ -95,7 +95,10 @@ main, .notepad-share-icons, .notepad-disqus {
       -ms-transform: translate3d(0, 0, 0);
       -moz-transform: translate3d(0, 0, 0);
       -o-transform: translate3d(0, 0, 0);
-      transform: translate3d(0, 0, 0); }
+      transform: translate3d(0, 0, 0); 
+    }
+
+
   @media only screen and (min-width: 40.063em) {
     .notepad-blog-menu {
       padding-top: 1.75rem;
@@ -132,6 +135,7 @@ main, .notepad-share-icons, .notepad-disqus {
             height: auto; }
             .notepad-blog-menu ul li a:hover {
               border-bottom: 0.1875rem solid #E26257; } }
+
 
 .notepad-site-head .notepad-site-head-menu {
   background: white; }
@@ -504,6 +508,14 @@ figure a img:hover {
   color: #fff;
   margin: 10px;
   font-weight: bold;
+}
+
+.serbian-link {
+  margin: 0 15px 0 0;
+}
+
+.serbian-link img {
+  margin: 0 5px 0 7px;
 }
 
 svg:not(:root) {
