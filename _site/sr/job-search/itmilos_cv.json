@@ -1,0 +1,229 @@
+{
+    "settings": {
+        "icons": true
+    },
+    "firstname": "Miloš",
+    "familyname": "Rujević",
+    "linkedin_id": "itmilos",
+    "github_id": "itmilos",
+    "bio_data": {
+        "email": "itmilos @ outlook.com",
+        "phone": "+381 65 409 3202",
+        "website": "http://itmilos.com",
+        "stars": [
+            "Ruby",
+            "HTML",
+            "Git",
+            "CSS"
+        ],
+        "summary": {
+            "points": [
+                "Competent at managing responsibilities in a high-volume atmosphere",
+                "Hard worker, quick learner, and ability to assume responsibility"
+            ]
+        },
+        "github_projects": {
+            "details": [
+                {
+                    "project_name": "motoriklub/tureimotori",
+                    "tagline": "Live at [2048-tetris.com](http://2048-tetris.com)",
+                    "description": [
+                        "Made web platform for motorcycle drives to ease toure organization."
+                    ]
+                },
+                {
+                    "project_name": "volimkafu/volimkafu.github.io",
+                    "tagline": "Live at [volimkafu.club](http://www.volimkafu.club/",
+                    "description": [
+                        "Blog for coffee lovers, with easy to use social media integration features."
+                    ]
+                }
+            ]
+        },
+        "skills": {
+            "details": [
+                {
+                    "type": "Programming Languages",
+                    "items": [
+                        "Ruby",
+                        "HTML",
+                        "CSS",
+                        "Javascript",
+                        "PHP"
+                    ]
+                },
+                {
+                    "type": "Web Frameworks",
+                    "items": [
+                        "Rails",
+                        "WordPress",
+                        "AngularJS",
+                        "Sinatra"
+                    ]
+                },
+                {
+                    "type": "Databases",
+                    "items": [
+                        "MySQL",
+                        "PostgreSQL",
+                        "MongoDB"
+                    ]
+                },
+                {
+                    "type": "Graphics",
+                    "items": [
+                        "Adobe Ai",
+                        "Adobe PS",
+                        "Sketch 3"
+                    ]
+                },
+                {
+                    "type": "Languages",
+                    "items": [
+                        "English",
+                        "Serbian"
+                    ]
+                },
+                {
+                    "type": "Interests",
+                    "items": [
+                        "Analytical Research",
+                        "Psychology",
+                        "Github"
+                    ]
+                }
+            ]
+        },
+        "education": {
+            "show_gpa": true,
+            "schools": [
+                {
+                    "degree": "B.B.A.",
+                    "major": "Management Information Systems",
+                    "institution": "Drexel Univeristy",
+                    "graduation_year": 2013,
+                    "gpa": "3.1/4"
+                }
+            ]
+        },
+        "acad_achievements": {
+            "items": [
+                "NCAA Full Athletic Scholarship - CREW",
+                "Dean's list four times"
+            ]
+        },
+        "experience": {
+            "items": [
+                {
+                    "title": "Software Developer",
+                    "organisation": "RED BLACK TREE D.O.O.",
+                    "location": "Belgrade, Serbia",
+                    "from": "Nov. 2014",
+                    "to": "Present",
+                    "details": [
+                        "Developed sudoku web game <<http://sudokugamez.herokuapp.com/>",
+                        "Developed AngularJS and Rails web platforms"
+                    ],
+                    "technology_used": {
+                        "tools": [
+                            "Rails",
+                            "AngularJS"
+                        ]
+                    }
+                },
+                {
+                    "title": "IT Consultant",
+                    "organisation": "Data Tech International D.O.O.",
+                    "location": "Belgrade, Serbia",
+                    "from": "Feb. 2014",
+                    "to": "Sep. 2014",
+                    "details": [
+                        "WordPress Development",
+                        "Rails Development",
+                        "Fron-end .NET development",
+                        "Designed Business Cards, Brochures, Presentations, and coded email templates"
+                    ],
+                    "technology_used": {
+                        "tools": [
+                            "Rails",
+                            "AngularJS"
+                        ]
+                    }
+                },
+                {
+                    "title": "Web Developer",
+                    "organisation": "HootBoard LTD",
+                    "location": "Philadelphia, PA, USA",
+                    "from": "Oct. 2011",
+                    "to": "Dec. 2013",
+                    "details": [
+                        "Increased number of applicants by designing modern job postings",
+                        "Managed development for hootboard plug-ins",
+                        "Developed UI/UX for hootboard plug-ins"
+                    ],
+                    "technology_used": {
+                        "tools": [
+                            "WordPress",
+                            "Adobe CC (AI, PS)"
+                        ]
+                    }
+                },
+                {
+                    "title": "Software Engineer",
+                    "organisation": "Day & Zimmermann Inc.",
+                    "location": "Philadelphia, PA, USA",
+                    "from": "Apr. 2013",
+                    "to": "Sep. 2013",
+                    "details": [
+                        "Developed Interactive Floor Maps",
+                        "Provided Mobile and Desktop suppot for fardware and software in SAP enviroment for 30,000+ Employees",
+                        "SAP Afaria Administration for iOS mobile devices",
+                        "Supperviesd a team of 4 inters in researching, testing, and developing of new applications",
+                        "Developed documentation based on corporate design standards"
+                    ],
+                    "technology_used": {
+                        "tools": [
+                            "VB Script",
+                            "MicroSoft SharePoint",
+                            "MicroSoft Visio",
+                            "SAP Afaria"
+                        ]
+                    }
+                }
+            ]
+        },
+        "other_projects": {
+            "items": [
+                {
+                    "headline": "Web Forum - Grant Thornton / TECHNICAL ANALYST"
+                }
+            ]
+        },
+        "undergrad_courses": [
+            {
+                "name": "Introduction to Enterprise Application Software using SAP",
+                "url": "http://www.lebow.drexel.edu/academics/disciplines/management-information-systems/sap-lebow/courses"
+            }
+        ],
+        "extra_curricular": {
+            "items": [
+                "Was awarded 1<sup>nd</sup> place at FloodHack 2014 Hackathon for iOS App Super Volunteer, Jun 2014.",
+                "Was awarded 2<sup>nd</sup> position in SAP Design Thinking Jam for concept of Mobile Medical Kit, Jun 2013."
+            ]
+        },
+        "papers": {
+            "items": [
+                {
+                    "authors": "Miloš Rujević, Pat McGann, Shaun Menkhaus, Daniel Pyne, Maddie Zelicoff, Nina Monzo",
+                    "title": "Company Evaluation - Navigator Management Inc.",
+                    "misc": "[link](https://www.academia.edu/8384040/Navigator_Management_Inc)"
+                },
+                {
+                    "authors": "Miloš Rujević",
+                    "title": "Financial analysis report - Apple Inc.",
+                    "misc": "[link](https://www.academia.edu/8383979/ANALYS_REPORT_APPLE_Inc)"
+                }
+            ]
+        }
+    }
+}
