@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Top 10 Ruby Developers in Serbia"
-description: "I will try to make every cyrillic letter in CSS... Stay tuned..."
+description: "A list of top 10 ruby developers in Serbia by GIThub"
 tags: [git, free, time, ruby]
 categories: [data]
 comments: true
