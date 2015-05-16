@@ -30,8 +30,6 @@ there is no age limit and it is not necessary previous experience in programming
 
 Because the number of participants is limited, the application is important to point out why your participation in the workshop is important and your ideas for how to put it to better use.
 
-> Learn RUBY or die trying 
+<h2 class="text-center"><a href="https://docs.google.com/forms/d/1oQJqx7AcUbNzINnAjfB2OK-JyM1m9bDOzdIWf7MvudY/viewform?edit_requested=true">!!!!! APPLY HERE !!!</a></h2>
 
 ![RUBY-LOVE](http://i.imgur.com/4X8pGKZ.jpg)
-
-<h2 class="text-center"><a href="https://docs.google.com/forms/d/1oQJqx7AcUbNzINnAjfB2OK-JyM1m9bDOzdIWf7MvudY/viewform?edit_requested=true">!!!!! APPLY HERE !!!</a></h2>
