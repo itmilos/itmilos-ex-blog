@@ -5,7 +5,7 @@ layout: post
 tags: [job, free]
 categories: [ruby, ]
 ---
-Girls interested to learn to program in Ruby programming language to May 25 may apply for the 4th consecutive Rails Girls workshop. The most successful participants is provided with the possibility of employment practice.
+Girls interested to learn to program in Ruby programming language to May 25 may [APPLY](https://docs.google.com/forms/d/1oQJqx7AcUbNzINnAjfB2OK-JyM1m9bDOzdIWf7MvudY/viewform?edit_requested=true) for the 4th consecutive Rails Girls workshop. The most successful participants is provided with the possibility of employment practice.
 
 <div class="row">
     <div class="small-12 medium-6 columns">
@@ -23,14 +23,15 @@ Participants will be divided into groups, together with tutors and mentors go th
 
 This workshop is significant because after the meeting, with a few additional meetings, participants who are most advanced have the chance to get practice in the software companies TNation from Belgrade, as well as the possibility of employment after the end of practice.
 
-##This event is free 
+##This [event](http://railsgirls.com/beograd)  is free 
 there is no age limit and it is not necessary previous experience in programming.
 
 > You need to log in here until 25 May and to bring your laptop or netbook.
 
 Because the number of participants is limited, the application is important to point out why your participation in the workshop is important and your ideas for how to put it to better use.
 
-
 > Learn RUBY or die trying 
 
 ![RUBY-LOVE](http://i.imgur.com/4X8pGKZ.jpg)
+
+##  [!!!!! APPLY HERE !!!](https://docs.google.com/forms/d/1oQJqx7AcUbNzINnAjfB2OK-JyM1m9bDOzdIWf7MvudY/viewform?edit_requested=true)
