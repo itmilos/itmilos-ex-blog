@@ -5,7 +5,7 @@ layout: post
 tags: [job, free]
 categories: [ruby, ]
 ---
-** Girls ** interested to learn to program in Ruby programming language to May 25 may [APPLY](https://docs.google.com/forms/d/1oQJqx7AcUbNzINnAjfB2OK-JyM1m9bDOzdIWf7MvudY/viewform?edit_requested=true) for the 4th consecutive Rails Girls workshop. The most successful participants is provided with the possibility of employment practice.
+Girls interested to learn to program in Ruby programming language to May 25 may ** [APPLY](https://docs.google.com/forms/d/1oQJqx7AcUbNzINnAjfB2OK-JyM1m9bDOzdIWf7MvudY/viewform?edit_requested=true) ** for the 4th consecutive Rails Girls workshop. The most successful participants is provided with the possibility of employment practice.
 
 <div class="row text-center">
     <div class="small-12 medium-6 columns">
