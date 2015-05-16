@@ -16,8 +16,7 @@ Girls interested to learn to program in Ruby programming language to May 25 may 
     </div>
 </div>
 
-
-Fourth Belgrade Rails Girls workshop is planned for 6 and 7 June at the premises of the nests (in building Beograđanke). This workshop is designed for girls and women who want to test their skills in programming using the Ruby on Rails web platform for developing applications.
+- **Fourth Belgrade Rails Girls workshop **: is planned for 6 and 7 June at the premises of the nests (in building Beograđanke). This workshop is designed for girls and women who want to test their skills in programming using the Ruby on Rails web platform for developing applications.
 
 Participants will be divided into groups, together with tutors and mentors go through the basics of programming and learn how to create Web application from concept to code.
 
