@@ -34,4 +34,4 @@ Because the number of participants is limited, the application is important to p
 
 ![RUBY-LOVE](http://i.imgur.com/4X8pGKZ.jpg)
 
-##  [!!!!! APPLY HERE !!!](https://docs.google.com/forms/d/1oQJqx7AcUbNzINnAjfB2OK-JyM1m9bDOzdIWf7MvudY/viewform?edit_requested=true)
+<h2 class="text-center"> [!!!!! APPLY HERE !!!](https://docs.google.com/forms/d/1oQJqx7AcUbNzINnAjfB2OK-JyM1m9bDOzdIWf7MvudY/viewform?edit_requested=true)</h2>
