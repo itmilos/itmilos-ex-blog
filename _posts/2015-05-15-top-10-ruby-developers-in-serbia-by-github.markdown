@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Top 10 Ruby Developers in Serbia
 layout: post
 tags: [git, free, time, ruby]
