@@ -55,7 +55,7 @@ html, body, .notepad-post-container, .notepad-post-header {
     .post-template .notepad-post-header .notepad-post-menu-header {
       width: 100%;
       height: 5rem;
-      background-color: #8c989e;
+      background-color: #2e3c43;
       color: white;
       position: absolute;
       top: 0;
@@ -94,11 +94,11 @@ html, body, .notepad-post-container, .notepad-post-header {
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%); }
     .post-template .notepad-post-title a {
-      color: #8c989e; }
+      color: #2e3c43; }
       .post-template .notepad-post-title a:hover {
         color: #e51843; }
     .post-template .notepad-post-title h1 {
-      color: #8c989e;
+      color: #2e3c43;
       font-weight: 800;
       font-size: 2.5rem;
       margin: 0 auto;
@@ -114,7 +114,7 @@ html, body, .notepad-post-container, .notepad-post-header {
         .post-template .notepad-post-title h1 {
           font-size: 5.3125rem; } }
     .post-template .notepad-post-title.background--light h1 {
-      color: #8c989e; }
+      color: #2e3c43; }
     .post-template .notepad-post-title.background--dark h1 {
       color: white; }
   .post-template button.trigger {
@@ -133,7 +133,7 @@ html, body, .notepad-post-container, .notepad-post-header {
     font-size: 2em;
     cursor: pointer; }
     .post-template button.trigger.background--light::before, .post-template button.trigger.background--light span::before {
-      color: #8c989e; }
+      color: #2e3c43; }
     .post-template button.trigger.background--dark::before, .post-template button.trigger.background--dark span::before {
       color: white; }
   .post-template .notepad-post-container:not(.notrans) button.trigger {
@@ -150,7 +150,7 @@ html, body, .notepad-post-container, .notepad-post-header {
     left: -200%;
     padding: 0.8em;
     width: 500%;
-    color: #8c989e;
+    color: #2e3c43;
     content: attr(data-info);
     font-size: 1.125rem;
     text-transform: uppercase;
@@ -169,7 +169,7 @@ html, body, .notepad-post-container, .notepad-post-header {
     left: 0;
     width: 100%;
     height: 100%;
-    color: #8c989e;
+    color: #2e3c43;
     content: "\f078";
     text-transform: none;
     font-weight: normal;
@@ -283,11 +283,11 @@ html, body, .notepad-post-container, .notepad-post-header {
     transform: translateX(-50%) translateY(-50%) scale(1); }
   .post-template .intro-effect-sliced .notepad-post-header p {
     opacity: 0;
-    color: #8c989e; }
+    color: #2e3c43; }
   .post-template .intro-effect-sliced.modify .notepad-post-header p {
     opacity: 1; }
   .post-template .intro-effect-sliced.modify .notepad-post-header h1 {
-    color: #8c989e; }
+    color: #2e3c43; }
   .post-template .intro-effect-sliced .notepad-post-content > div {
     -webkit-transform: translateY(200px);
     transform: translateY(200px);
@@ -374,7 +374,7 @@ html, body, .notepad-post-container, .notepad-post-header {
 .notepad-post-menu-header-simple {
   width: 100%;
   height: 5rem;
-  background-color: #8c989e;
+  background-color: #2e3c43;
   color: white;
   position: relative;
   z-index: 9999; }
@@ -392,13 +392,13 @@ html, body, .notepad-post-container, .notepad-post-header {
   width: 100%; }
   .notepad-page-title a,
   .notepad-post-title-simple a {
-    color: #8c989e; }
+    color: #2e3c43; }
     .notepad-page-title a:hover,
     .notepad-post-title-simple a:hover {
       color: #e51843; }
   .notepad-page-title h1,
   .notepad-post-title-simple h1 {
-    color: #8c989e;
+    color: #2e3c43;
     font-weight: 800;
     font-size: 3.125rem;
     padding: 0;
@@ -625,7 +625,7 @@ iframe {
     padding: 4px 6px;
     margin: 2px;
     text-decoration: none;
-    border: 0.0625rem solid #8c989e;
+    border: 0.0625rem solid #2e3c43;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     border-radius: 4px;
@@ -634,5 +634,5 @@ iframe {
 .tag-box a span {
     font-size: 10px;
     vertical-align: super;
-    color: #8c989e;
+    color: #2e3c43;
 }
