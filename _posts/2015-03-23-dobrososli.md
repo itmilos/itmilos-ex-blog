@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Welcome to Serbia"
-description: Welcome to Serbia 
-headline: Welcome to Serbia
+title: "Dobrodošli u Srbiju"
+description: Dobrodošli u Srbiju
+headline: Dobrodošli u Srbiju
 modified: 2014-07-19
-category: creative
-tags: [create, free time, fun]
-imagefeature: cover1.jpg
+category: kreativno
+tags: [kreativno, slobodno vreme, zabava]
+imagefeature: welcome/n3.jpg
 comments: true
 share: true
 ---
