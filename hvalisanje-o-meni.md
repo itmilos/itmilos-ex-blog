@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/index.html
+permalink: /hvalisanje-o-meni/index.html
 title: ITMilos Milos Rujevic
 tags: [itmlos]
 imagefeature: fourseasons.jpg
