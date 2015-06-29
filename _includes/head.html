@@ -97,8 +97,8 @@
 <!-- Google PLEASE STOP TRANSLATION END -->
 
 <!-- International dates -->
-{% assign srb = page.date | date: "%-srb" %}
-{% case srb %}
+{% assign m = page.date | date: "%-m" %}
+{% case m %}
   {% when '1' %}Januar
   {% when '2' %}Februar
   {% when '3' %}Mart
