@@ -11,7 +11,7 @@ comments: true
 share: true
 ---
 
-just for fun 
+samo za zabavu
 
 <figure class="third">
 	<a href="{{ site.url }}/images/welcome/n1.jpg"><img src="{{ site.url }}/images/welcome/n1.jpg"></a>
