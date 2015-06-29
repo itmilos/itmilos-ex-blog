@@ -1,5 +1,5 @@
 title:            itmilos   
-description:      "all things and web development"
+description:      "web development i sve ostalo"
 logo:             logo.png
 disqus_shortname: itmilos
 share:            true
@@ -15,7 +15,7 @@ owner:
   avatar:         itmilos.jpg
   email:          itmios@outlook.com    
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    all things and web development 
+  description:    web development i sve ostalo
   # Social networking links used in footer. Update and remove as you like.
   twitter:        itmilos
   facebook:       itmilos
@@ -33,16 +33,16 @@ bing_verify:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: kuca
     url: /
     external: true
     icon: home
-  - title: Featured Posts
-    url: /featured
-  - title: Categories
-    url: /categories
-  - title: About
-    url: /about
+  - title: super 
+    url: /super
+  - title: kategorije
+    url: /kategorije
+  - title: o meni
+    url: /hvalisanje-o-meni
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Belgrade
@@ -76,9 +76,9 @@ prose:
   media: 'images'
   metadata:
     _posts:
-      - name: "published"
+      - name: "objavljeno"
         field:
-          label: "Published"
+          label: "Objavljeno"
           element: "checkbox"
           value: "true"
       - name: "layout"
@@ -86,55 +86,51 @@ prose:
           element: "hidden"
           label: "Layout"
           value: "post"
-      - name: "title"
+      - name: "naziv"
         field:
-          label: "Title"
+          label: "naziv"
           element: "text"
-          value: "An Awesome Headline!"
-      - name: "description"
+          value: "Super naziv!"
+      - name: "Opis"
         field:
-          element: "text"
-          label: "Description"
-          placeholder: "Enter Post Description"
-      - name: "headline"
+          element: "tekst"
+          label: "Opis"
+          placeholder: "Upisi opis"
+      - name: "Opis"
         field:
-          element: "text"
-          label: "beadline"
-          placeholder: "Enter Post Headline"
-      - name: "modified"
+          element: "teks"
+          label: "Super naziv"
+          placeholder: "Upisi super naziv "
+      - name: "modifikovano"
         field:
-          element: "text"
-          label: "Has this page been modified?"
+          element: "tekst"
+          label: "Da li je ova strana modifikovana?"
           placeholder: "YYYY-MM-DD"
-      - name: "categories"
+      - name: "kategorije"
         field:
           element: "multiselect"
-          label: "Add categories"
-          placeholder: "Choose categories"
+          label: "Dodaj kategorije"
+          placeholder: "Izaberi kategorije"
           value: personal
           options:
-            - name: "Personal"
-              value: personal
-            - name: "Engineering"
-              value: engineering
-            - name: "Physics"
-              value: physics
-            - name: "Psychology"
-              value: psychology
-            - name: "Interesting"
-              value: interesting
+            - name: "O meni"
+              value: omeni
+            - name: "Projekat"
+              value: projekat
+            - name: "Interesantno"
+              value: interesantno
             - name: "Web-Development"
               value: webdevelopment
           alterable: true
-      - name: "tags"
+      - name: "tagovi"
         field:
-          element: "text"
-          label: "Tags"
-          placeholder: "Enter tags, separated by spaces"
+          element: "tekst"
+          label: "Tagovi"
+          placeholder: "Upisite tagove razdvojene zapetom"
       - name: "imagefeature"
         field:
-          element: "text"
-          label: "Featured Image"
+          element: "Tekst"
+          label: "Super slika"
           placeholder: "somefile.jpg"
       - name: "mathjax"
         field:
@@ -144,12 +140,12 @@ prose:
       - name: "featured"
         field:
           element: "checkbox"
-          label: "Featured?"
+          label: "Super?"
           value: false
-      - name: "comments"
+      - name: "komentari"
         field:
           element: "checkbox"
-          label: "Comments"
+          label: "komentari"
           value: false
 
 

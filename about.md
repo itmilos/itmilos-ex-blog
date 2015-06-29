@@ -53,8 +53,8 @@ I am already consulting multiple successful outsourcing business...
 Born and Raised in Belgrade, Serbia. 
 
 <figure class="half">
-	<a href="{{ site.url }}/images/about/4.jpg"><img src="{{ site.url }}/images/about/4-001.jpg"></a>
-	<a href="{{ site.url }}/images/about/5.jpg"><img src="{{ site.url }}/images/about/5-001.jpg"></a>
+	<a href="{{ site.url }}/images/about/4.jpg"><img src="{{ site.url }}/images/about/hipster-uplatnica.jpg"  alt="hipster uplatnica"></a>
+	<a href="{{ site.url }}/images/about/5.jpg"><img src="{{ site.url }}/images/about/milos-rujevic.jpg"  alt="itmilos Milos Rujevic"></a>
 </figure>
 
 
