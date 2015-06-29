@@ -14,7 +14,7 @@ body {
   line-height: 1; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat", sans-serif; }
+  font-family: "Open Sans", sans-serif; }
 
 .notepad-parallax-background {
   position: fixed;
@@ -42,7 +42,7 @@ main, .notepad-share-icons, .notepad-disqus {
   padding-bottom: 0;
   margin-right: 0.9375rem;
   float: right;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
   font-size: 2.625rem;
   height: 5rem; }
@@ -147,7 +147,7 @@ main, .notepad-share-icons, .notepad-disqus {
     height: 5rem;
     line-height: 5rem;
     vertical-align: middle;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-size: 1.625rem;
     font-weight: 700;
     color: #2e3c43;
@@ -237,13 +237,13 @@ main, .notepad-share-icons, .notepad-disqus {
       font-size: 3.25rem;
       font-weight: 800;
       color: #f35821;
-      font-family: "Montserrat", sans-serif; }
+      font-family: "Open Sans", sans-serif; }
     .notepad-content .notepad-index-post .notepad-post-meta .month-year {
       display: block;
       font-size: 1rem;
       color: #2e3c43;
       font-size: 0.875rem;
-      font-family: "Montserrat", sans-serif;
+      font-family: "Open Sans", sans-serif;
       text-transform: uppercase; }
   .notepad-content .notepad-index-post .notepad-post-header .notepad-post-title {
     color: #2e3c43;
@@ -427,7 +427,7 @@ nav.pagination {
 .notepad-tags-container {
   background: #f2f2f2; }
   .notepad-tags-container .notepad-tags-header {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-size: 1.125rem;
     color: #2e3c43;
     text-transform: uppercase;
