@@ -91,3 +91,25 @@
 <meta name="msapplication-TileImage" content="{{ site.url }}/images//ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 <!-- ICONS END -->
+
+<!-- Google PLEASE STOP TRANSLATION -->
+<meta name="google" content="notranslate" />
+<!-- Google PLEASE STOP TRANSLATION END -->
+
+<!-- International dates -->
+{% assign srb = page.date | date: "%-srb" %}
+{% case srb %}
+  {% when '1' %}Januar
+  {% when '2' %}Februar
+  {% when '3' %}Mart
+  {% when '4' %}April
+  {% when '5' %}Maj
+  {% when '6' %}Juni
+  {% when '7' %}Juli
+  {% when '8' %}August
+  {% when '9' %}Septembar
+  {% when '10' %}Oktobar
+  {% when '11' %}Novembar
+  {% when '12' %}Decembar
+{% endcase %}
+<!-- International dates END -->
