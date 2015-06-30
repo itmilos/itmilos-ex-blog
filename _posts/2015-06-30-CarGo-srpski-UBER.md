@@ -13,7 +13,9 @@ share: true
 
 Aplikacija je laka za korišćenje sve što treba da uradite je izberete Mini klasu automobila (trenutno jedina dostupna) / simbol za urbane gradske automobile… pogledajte kratak video..
 
-!![560x315](//https://www.youtube.com/embed/htmBNuaXVRE)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=htmBNuaXVRE
+" target="_blank"><img src="http://img.youtube.com/vi/htmBNuaXVRE/0.jpg" 
+alt="car:go demo aplikacije" width="560" height="315" border="10" /></a>
 
 Moje vožnje  [CAR:GO](http://appcargo.com/) bile su super, vozači su cool, mada nadam se da će uskoro biti i devojaka :) 
 
