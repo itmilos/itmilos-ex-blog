@@ -14,12 +14,12 @@ share: true
 Aplikacija je laka za korišćenje sve što treba da uradite je izberete Mini klasu automobila (trenutno jedina dostupna) / simbol za urbane gradske automobile… pogledajte kratak video..
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=htmBNuaXVRE
-" target="_blank"><img src="http://img.youtube.com/vi/htmBNuaXVRE/0.jpg" 
+" target="_blank"><img src="http://itmilos.github.io/images/youtubecg.jpg" 
 alt="car:go demo aplikacije" width="560" height="315" border="10" /></a>
 
 Moje vožnje  [CAR:GO](http://appcargo.com/) bile su super, vozači su cool, mada nadam se da će uskoro biti i devojaka :) 
 
-Kredit se uplaćuje samo preko PayPal-a, što je dobra stvar je se time ograničava grupa ljudi koja može da koristi servis što znači da klošara neće biti za sada. 
+Kredit se uplaćuje samo preko [PayPal-a](http://paypal.com/), što je dobra stvar je se time ograničava grupa ljudi koja može da koristi servis što znači da klošara neće biti za sada. 
 
 #Servis je jeftini 30% od običnog taksija. 
 
