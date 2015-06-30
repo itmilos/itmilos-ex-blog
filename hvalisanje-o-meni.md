@@ -27,37 +27,23 @@ chart: true
 {% endfor %}
 
 
-Born and raised in Belgrade, Serbia and being dyslexic.. You might think I had a fuck-up live, acctually its the other way around. 
+Pre svega miran, fin, tih i povučen dečak sa [Vračara](http://www.volimvracar.rs/). 
 
-#This blog has {{ site.posts | size }} posts
-
-##with {{ site.categories | size }} categories
-
-###total words count  {{ total_words }}
-
-####it will take you about <span class="time">{{ total_readtime }}</span> minutes to read. 
-
-#####runs on [jekyll](http://jekyllrb.com/ "Jekyll Bloging Platform") and [github pages](https://pages.github.com "GitHub Pages")
+Hajde da promenimo Srbiju jedan po jedan piksel. 
 
 
+#Ovaj blog ima {{ site.posts | size }} postova
 
-I am [Drexel Made](http://www.drexel.edu "Drexel University") serb...so I have US degree and SERBIAN heritage.. 
-My ultimate goal is to make silicone valley of the blakans here in Belgrade, Serbia.
-I am already consulting multiple successful outsourcing business... 
+##sa {{ site.categories | size }} kategorija
 
+### ukupno reči  {{ total_words }}
+
+####trebaće Vam cirka <span class="time">{{ total_readtime }}</span> minuta da sve pročitate.
+
+#####pokreće ga [jekyll](http://jekyllrb.com/ "Jekyll Bloging Platform") i [github pages](https://pages.github.com "GitHub Pages")
+
+
+###A sada pravac u [Mikser](http://house.mikser.rs/)
 <figure>
-	<img src="{{ site.url }}/images/milos-rujevic.jpg" alt="Milos Rujevic">
-	<figcaption>At <a href="https://www.google.rs/maps?es_sm=91&q=ada+ciganlija&bav=on.2,or.r_cp.&bvm=bv.88528373,d.ZWU&biw=1429&bih=838&um=1&ie=UTF-8&sa=X&ei=cj8PVbTeM4jsO9GKgJgC&ved=0CAcQ_AUoAg">Ada Ciganlija</a> </figcaption>
-</figure>
-
-Born and Raised in Belgrade, Serbia. 
-
-<figure class="half">
 	<a href="{{ site.url }}/images/about/4.jpg"><img src="{{ site.url }}/images/about/hipster-uplatnica.jpg"  alt="hipster uplatnica"></a>
-	<a href="{{ site.url }}/images/about/5.jpg"><img src="{{ site.url }}/images/about/milos-rujevic.jpg"  alt="itmilos Milos Rujevic"></a>
 </figure>
-
-
-I
-make
-things happen.
