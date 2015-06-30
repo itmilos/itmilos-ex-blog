@@ -13,7 +13,7 @@ share: true
 
 Aplikacija je laka za korišćenje sve što treba da uradite je izberete Mini klasu automobila (trenutno jedina dostupna) / simbol za urbane gradske automobile… pogledajte kratak video..
 
-<iframe width=“420" height=“420" src="https://www.youtube.com/embed/htmBNuaXVRE" frameborder="0"></iframe>
+!![560x315](//https://www.youtube.com/embed/htmBNuaXVRE)
 
 Moje vožnje  [CAR:GO](http://appcargo.com/) bile su super, vozači su cool, mada nadam se da će uskoro biti i devojaka :) 
 
@@ -25,3 +25,4 @@ Za sada nema potrebe za bakšišom, što je dobra stvar jer na kraju nema onog �
 
 Uskoro ću snimiti i prvu vožnju LIVE… ako hoćete da Vam pošaljem mejl sa linkom 
 [upišite svoju mejl adresu ovde](http://goo.gl/forms/Uno9Toh4Bg)….
+
