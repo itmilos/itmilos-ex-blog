@@ -17,7 +17,7 @@ Aplikacija je laka za korišćenje sve što treba da uradite je izberete Mini kl
 " target="_blank"><img src="http://itmilos.github.io/images/youtubecg.jpg" 
 alt="car:go demo aplikacije" width="560" height="315" border="10" /></a>
 
-Moje vožnje sa [CAR:GO-om](http://appcargo.com/)bile su super, vozači su cool, mada nadam se da će uskoro biti i devojaka :) 
+Moje vožnje sa [CAR:GO-om](http://appcargo.com/) bile su super, vozači su cool, mada nadam se da će uskoro biti i devojaka :) 
 
 Kredit se uplaćuje samo preko [PayPal-a](http://paypal.com/), što je dobra stvar je se time ograničava grupa ljudi koja može da koristi servis što znači da klošara neće biti za sada. 
 
