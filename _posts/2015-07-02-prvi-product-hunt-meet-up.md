@@ -17,7 +17,7 @@ share: true
 
 ###Zašto je ovo važno?
 
-[ProducHunt](www.producthunt.com) postaje najbažnija platforma za promovisanje novih firmi (start-up).
+[ProducHunt](www.producthunt.com) postaje najvažnija platforma za promovisanje novih firmi (start-up).
 Ovaj prvi i naredni meet/up će dovesti do toga da se u narednom periodu poveća broj srpskih start-up kompanija.
 
 #Najavljujemo 100 meet/up-a
