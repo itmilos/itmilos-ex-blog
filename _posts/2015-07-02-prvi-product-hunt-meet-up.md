@@ -15,4 +15,6 @@ share: true
 
 USKORO...
 
+Zašto je ovo važno?
 
+[ProducHunt](www.producthunt.com) postaje najbažnija platforma za promovisanje novih firmi (start-up)
