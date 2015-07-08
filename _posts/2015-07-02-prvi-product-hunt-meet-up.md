@@ -4,16 +4,20 @@ title: "Prvo pa muško” / Producthunt "
 description: "Producthunt mesto za tvoju firmu"
 category: pisanija  
 tags: [taksi, život]
-imagefeature: product-hunt-belgrade.png
 comments: true
 share: true
 ---
 
 ##Prvo pa muško 
 
-Šta je to [ProducHunt](www.producthunt.com) ?
 
-#####USKORO... samo malo da odmorim
+Pogledate [kratak video](https://www.youtube.com/watch?v=pVp1v8kpqZM), koji će Vam objasniti šta je to [ProducHunt](https://www.youtube.com/watch?v=pVp1v8kpqZM) ?
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=htmBNuaXVRE
+" target="_blank"><img src="http://itmilos.github.io/images/product-hunt-beograd.png" 
+alt="car:go demo aplikacije" width="560" height="315" border="10" /></a>
+
+A ako hoćete da koristite [ProducHunt](https://courses.platzi.com/courses/build-grow-online-communities/) za promovisanje, nema čekanja nego uzmite [kurs](https://courses.platzi.com/courses/build-grow-online-communities/) [PLatzi-u](https://courses.platzi.com/courses/build-grow-online-communities/)
 
 ###Zašto je ovo važno?
 
