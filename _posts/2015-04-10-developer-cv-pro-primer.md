@@ -4,7 +4,6 @@ title: "Developer CV Pro primer"
 description: "Tražiš novi posao, ovo ti možda pomogne..."
 category: pisanija  
 tags: [pokušaj, traženje posla, json to html, json to pdf]
-imagefeature: the-job.jpg
 modified: 2015-04-10
 comments: true
 share: true

@@ -4,7 +4,6 @@ title: "Vožnja “Srpskim Uberom”…. Taksista Vas više nikada neće uraditi
 description: "Želiš da se vožiš kako treba onda koristi CAR:GO"
 category: pisanija  
 tags: [taksi, život]
-imagefeature: car-go-taksi-beograd.jpg
 comments: true
 share: true
 ---
