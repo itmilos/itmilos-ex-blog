@@ -37,7 +37,7 @@ layout: none
     <uri>{{ site_url }}</uri>
     <email>{{ site.owner.email }}</email>
   </author>
-  {% for tag in post.tags %}<category scheme="{{ site_url }}/tags/#{{ tag | uri_escape }}" term="{{ tag }}" />{% endfor %}
+  {% for tag in post.tags %}<category scheme="{{ site_url }}/tagovi/#{{ tag | uri_escape }}" term="{{ tag }}" />{% endfor %}
   <content type="html">
   {% if add_protocol %}
     {{ post.content | xml_escape | replace: site.url, site_url }}
